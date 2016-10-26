@@ -165,6 +165,10 @@ def main():
             'memory': 6.6,
             'redis_maxmemory': 6501171200,
             'vcpu': 8},
+        'cache.m4.large': {
+            'memory': 6.42,
+            'redis_maxmemory': 6893422510,
+            'vcpu': 8},
         'cache.t1.micro': {
             'memory': 0.213,
             'redis_maxmemory': 142606336,
